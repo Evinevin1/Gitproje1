@@ -12,6 +12,6 @@ public class Merhaba {
             System.out.println("merhaba");
 
         }
-
+        System.out.println("merhaba");
     }
 }
